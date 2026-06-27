@@ -1,0 +1,5 @@
+OrderID,ProductName,Category,Region,Sales,Profit,Quantity,Discount
+1001,Laptop,Technology,East,1200,300,2,0.10
+1002,Chair,Furniture,West,450,80,3,0.05
+1003,Printer,Technology,South,650,120,1,0.15
+1004,Desk,Furniture,North,800,200,2,0.10

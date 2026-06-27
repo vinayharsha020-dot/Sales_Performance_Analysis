@@ -1,0 +1,5 @@
+OrderID,OrderDate,CustomerID,ShipMode
+1001,2024-01-10,C101,Second Class
+1002,2024-01-12,C102,Standard Class
+1003,2024-01-15,C103,First Class
+1004,2024-01-20,C104,Standard Class
